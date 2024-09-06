@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Zisanur Haque
 #### A Passionate Programmer
-![A Passionate Programmer](https://media.licdn.com/dms/image/D5616AQH6DGvZ5-6oOg/profile-displaybackgroundimage-shrink_350_1400/0/1697031849103?e=1709769600&v=beta&t=2xBbaptJ2Ei84WqD3Gh7ikHoZGS9FvPBdxDfrHEDOQ4)
-
+A Passionate Programmer
 I am Zisanur Haque, a seasoned Web Developer and Programmer committed to delivering high-quality web applications and REST APIs within the robust MERN Stack. My proficiency extends to React.js for crafting dynamic and user-centric frontends, and Node.js with Express.js for building scalable and efficient backends.
 
 My journey in the realm of programming spans over five years, during which I've honed my skills through rigorous study and hands-on experience. This commitment has instilled in me a deep passion for the art of coding, and I continually seek to expand my knowledge and expertise.
@@ -14,7 +13,7 @@ Skills: JavaScript / TypeScript / React Js / Tailwind CSS /  Next Js / Node & Ex
 
 - 🔭 I’m currently working on Athena Analytics Limited 
 - 🌱 I’m currently learning React Native, Django & going to focus on Data Science & Machine Learning 
-- 📫 How to reach me: https://zisanurhaque.vercel.app/ 
+- 📫 How to reach me: [https://zisanurhaque1.vercel.app/ ](https://zisanurhaque1.vercel.app/)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zisanurhaque)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zisanurhaque/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/zisanurhaque)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>]([https://zisanurhaque1.vercel.app/](https://zisanurhaque1.vercel.app/))  
